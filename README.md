@@ -23,13 +23,17 @@ If you don't use CocoaPods, you will have to import these files into your projec
 
 ##Services supported
 
-| Service name | Place name/Zip code | Coordinates | AFWeather name |
-|----------|-------|----------|---------|-------------|
-| **World Weather Online** | :white_check_mark: | :white_check_mark: | *AFWeatherAPIWorldWeatherOnline* |
-| **Weather Undeground** | :white_check_mark: | :no_entry_sign: | *AFWeatherAPIWeatherUnderground* |
-| **Open Weather Map** | :white_check_mark: | :white_check_mark: | *AFWeatherAPIOpenWeatherMap* |
-| **AccuWeather** | :white_check_mark: | :no_entry_sign: | *AFWeatherAPIAccuWeather* |
-| **Forecast.io** | :no_entry_sign: | :white_check_mark: | *AFWeatherAPIForecast* |
++--------------------------+---------------------+--------------------+------------------------------------+
+|       Service name       | Place name/Zip code |    Coordinates     |          AFWeather name            |
++--------------------------+---------------------+--------------------+------------------------------------+
+| **World Weather Online** | :white_check_mark:  | :white_check_mark: | *AFWeatherAPIWorldWeatherOnline* | |
+| **Weather Undeground**   | :white_check_mark:  | :no_entry_sign:    | *AFWeatherAPIWeatherUnderground*   |
+| **Open Weather Map**     | :white_check_mark:  | :white_check_mark: | *AFWeatherAPIOpenWeatherMap*       |
+| **AccuWeather**          | :white_check_mark:  | :no_entry_sign:    | *AFWeatherAPIAccuWeather*          |
+| **Forecast.io**          | :no_entry_sign:     | :white_check_mark: | *AFWeatherAPIForecast*             |
++--------------------------+---------------------+--------------------+------------------------------------+
+
+
 
 ##Usage
 
